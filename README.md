@@ -12,8 +12,8 @@ Here is some small ruby examples I have developed from the problems outlined in 
 
 ### Coding Style
 
-Ruby: https://github.com/styleguide/ruby
-RSpec: http://code.tutsplus.com/tutorials/ruby-for-newbies-testing-with-rspec--net-21297
+- Ruby: https://github.com/styleguide/ruby
+- RSpec: http://code.tutsplus.com/tutorials/ruby-for-newbies-testing-with-rspec--net-21297
 
 ### Examples List
 
