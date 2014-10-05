@@ -1,0 +1,1 @@
+require_relative "../app/replace_chars"
